@@ -24,9 +24,9 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=237.png time=500]
 
-メロスは死んだように深く眠った。[l][r]
+メロスは死んだように仕事をした。[l][r]
 
 【 BAD END 】[l][cm]
 
